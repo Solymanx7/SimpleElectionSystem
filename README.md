@@ -10,6 +10,6 @@ How to use it?
 -4- continue the process normally  
   
 You still can use the basic commands like call number or call friend.  
-I’m using firebase as DB and google API for voice recognition and speech synthesis  
+I’m using firebase as Realtime DB and google API for voice recognition and speech synthesis  
 
  
