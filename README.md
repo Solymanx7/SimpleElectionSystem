@@ -8,6 +8,7 @@ How to use it?
 -2- answer the asked questions  
 -3- for the national ID answer : “111” or “123” or “721” , note that once you voted u can’t use it again  
 -4- continue the process normally  
+  
 You still can use the basic commands like call number or call friend.  
 I’m using firebase as DB and google API for voice recognition and speech synthesis  
 
