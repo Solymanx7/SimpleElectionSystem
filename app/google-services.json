@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88648976424",
+    "firebase_url": "https://voicecommand-e6cf5.firebaseio.com",
+    "project_id": "voicecommand-e6cf5",
+    "storage_bucket": "voicecommand-e6cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88648976424:android:6aaf2d118e28801c",
+        "android_client_info": {
+          "package_name": "com.example.android.voicecommand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88648976424-bniluc4m8vlsqjv07av8lp4lrbll45d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.voicecommand",
+            "certificate_hash": "3ef42010f129c650376fd53a6b80ab0d27ee921a"
+          }
+        },
+        {
+          "client_id": "88648976424-slta4qdctsl61id7t1np6s2442ohkkc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAioIDNJNI3t5NDP1C33rBrdWr8PoeX9z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88648976424-slta4qdctsl61id7t1np6s2442ohkkc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
